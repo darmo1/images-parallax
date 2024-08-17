@@ -1,0 +1,1 @@
+export { ParallaxCarouselLeftToRight } from './ParallaxCarouselLeftToRight'
